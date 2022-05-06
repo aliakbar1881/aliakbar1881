@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliakbar1881
 - 📫 How to reach me ...
-you can find me on "aliakar138118@hotmail.com"
+you can find me on "aliakar138118@gmail.com"
 
 <!---
 aliakbar1881/aliakbar1881 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
